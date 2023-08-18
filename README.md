@@ -1,5 +1,5 @@
 # Weather_App
-https://weather-app-8kob.vercel.app/ tap here for a quick review of my project.
+https://weather-app-8kob.vercel.app/ tap here for a quick review of my project.(* some debitcard issues... i am not able to use cloud-based platform)
 
 This repository contains a Django application that you can run locally for development purposes.
 
